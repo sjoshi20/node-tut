@@ -1,0 +1,31 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjoshi20/node-js.git"
+  },
+  "keywords": [
+    "code",
+    "with",
+    "me"
+  ],
+  "author": "Shivani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjoshi20/node-js/issues"
+  },
+  "homepage": "https://github.com/sjoshi20/node-js#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  },
+  "devDependencies": {}
+}
